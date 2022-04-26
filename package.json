@@ -1,0 +1,7 @@
+{
+  "name": "node-customer-manager",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.10.3"
+  }
+}
